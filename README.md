@@ -4,7 +4,7 @@ Node.js runs JavaScript code. This means that millions of frontend developers th
 
 For us, that means we can run javascript on our local computers without needing to rely on the browser and eventually we can build web servers with javascript!
 
-Javascript code is converted to c++, then Assembly Language and later into machine code through the v8 engine. 
+Javascript code is converted to c++, then Assembly Language and later into machine code via the v8 engine. 
 
 
 ## Installation
